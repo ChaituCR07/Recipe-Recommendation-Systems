@@ -11,7 +11,7 @@ This is a web application that utilizes Flask, Machine Learning, Tailwind CSS, H
 
 ## Getting Started
 
-To run the Recipe Recommendation System locally, follow these steps:
+To run the Recipe Recommendation System locally, follow the steps:
 
 1. Clone the repository: git clone https://github.com/ChaituCR07/Recipe-Recommendation-System.git
 2. Install npm modules: `npm install`
